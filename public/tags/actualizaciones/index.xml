@@ -13,12 +13,10 @@
       <link>http://localhost:1313/mi-blog-devops/about/</link>
       <pubDate>Mon, 02 Feb 2026 12:16:51 +0100</pubDate>
       <guid>http://localhost:1313/mi-blog-devops/about/</guid>
-      <description>&lt;p&gt;Esta es la sección donde describo mi trayectoria profesional.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;asdad&lt;/li&gt;
-&lt;li&gt;sdfsdf&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Leer las entradas del &lt;a href=&#34;../blog/&#34;&gt;blog&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;hola-soy-jorge-díez-tubet-&#34;&gt;Hola, soy Jorge Díez Tubet 🚀&lt;/h1&gt;
+&lt;p&gt;Bienvenido a mi rincón de aprendizaje. Soy un profesional con una trayectoria consolidada en la gestión de proyectos y tecnología, actualmente inmerso en una evolución estratégica hacia el ecosistema &lt;strong&gt;Cloud &amp;amp; DevOps&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;mi-trayectoria&#34;&gt;Mi trayectoria&lt;/h3&gt;
+&lt;p&gt;Con más de una década de experiencia (destacando mi etapa en &lt;strong&gt;IDOM Consulting&lt;/strong&gt;), he gestionado proyectos complejos donde la eficiencia y la estrategia eran la clave. Mi perfil combina la visión de negocio con una curiosidad técnica inagotable, lo que me ha llevado a especializarme en la automatización y la infraestructura moderna.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
