@@ -6,4 +6,3 @@ menus: main
 
 Esto es el index....
 
-![my image](./pic.png)

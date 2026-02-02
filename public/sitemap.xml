@@ -2,12 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/mi-blog-devops/tags/actualizaciones/</loc>
+    <loc>http://localhost:1313/mi-blog-devops/</loc>
+    <lastmod>2026-02-02T14:18:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mi-blog-devops/categories/</loc>
+    <loc>http://localhost:1313/mi-blog-devops/blog/</loc>
+    <lastmod>2026-02-02T13:01:45+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-blog-devops/tags/personal/</loc>
+    <lastmod>2026-02-02T12:16:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mi-blog-devops/about/</loc>
+    <lastmod>2026-02-02T12:16:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mi-blog-devops/tags/</loc>
+    <lastmod>2026-02-02T12:16:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mi-blog-devops/categories/</loc>
   </url>
 </urlset>

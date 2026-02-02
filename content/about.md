@@ -7,71 +7,60 @@ type: "page"
 ---
 
 
-Soy jorge Díez Tubet, **un profesional senior de Sistemas IT con más de 10 años de experiencia**, especializado en **entornos Microsoft 365, Azure y arquitecturas cloud híbridas**. A lo largo de mi trayectoria he participado en el diseño, despliegue y operación de plataformas tecnológicas críticas, combinando **profundidad técnica**, **visión de gobierno** y **orientación al negocio**.
+# Jorge Díez Tubet
+### Profesional Senior en Sistemas IT | Azure & Microsoft 365 Expert
 
-He desarrollado mi carrera tanto en **entornos corporativos** como en **contextos de consultoría y startup**, lo que me ha permitido adquirir una visión amplia y pragmática de la tecnología: desde la arquitectura y la seguridad, hasta la operación diaria y la relación con usuarios, proveedores y equipos multidisciplinares.
+Soy un **profesional senior de Sistemas IT con más de 10 años de experiencia**, especializado en **entornos Microsoft 365, Azure y arquitecturas cloud híbridas**. A lo largo de mi trayectoria he participado en el diseño, despliegue y operación de plataformas tecnológicas críticas, combinando **profundidad técnica**, **visión de gobierno** y **orientación al negocio**.
 
-Actualmente soy **socio fundador y responsable técnico de ADA Cloud**, donde lidero el área de sistemas y cloud, participando activamente tanto en la definición de soluciones como en su implantación y evolución.
+He desarrollado mi carrera tanto en entornos corporativos como en contextos de consultoría y startup, lo que me ha permitido adquirir una visión amplia y pragmática de la tecnología: desde la arquitectura y la seguridad, hasta la operación diaria y la relación con equipos multidisciplinares.
 
----
-
-## Qué hago
-
-Mi foco principal está en construir y mantener **plataformas IT estables, seguras y gobernadas**, especialmente en el ecosistema Microsoft:
-
-- **Microsoft 365**  
-  Gestión avanzada de identidades y acceso con Entra ID, acceso condicional, MFA, PIM, Exchange Online, Teams, SharePoint Online, seguridad y gobierno.
-
-- **Azure y cloud híbrido**  
-  Diseño de arquitecturas híbridas, Azure Landing Zone, gobierno de suscripciones, políticas, etiquetado, control de costes, automatización y optimización del rendimiento.
-
-- **Gobierno y seguridad**  
-  Implementación progresiva de controles de seguridad, equilibrio entre protección y experiencia de usuario, y alineación con buenas prácticas y procedimientos corporativos.
-
-- **Automatización y eficiencia**  
-  Automatización de procesos operativos y de licenciamiento para reducir errores, mejorar la trazabilidad y optimizar costes.
-
-- **Coordinación y liderazgo técnico**  
-  Interlocución con proveedores tecnológicos, coordinación técnica de equipos y trabajo cercano con perfiles senior y de negocio.
+Actualmente soy **socio fundador y responsable técnico de ADA Cloud**, donde lidero el área de sistemas y cloud.
 
 ---
 
-## Experiencia destacada
+## Qué hago 🛠️
 
-**ADA Cloud — Socio fundador / Responsable técnico**  
-Diseño, despliegue y operación de soluciones Microsoft 365 y Azure para múltiples clientes. Gobierno cloud, seguridad, automatización, licenciamiento y soporte avanzado en entornos críticos.
+Mi foco principal está en construir y mantener **plataformas IT estables, seguras y gobernadas**:
 
-**S&M Services — Administrador de Sistemas**  
-Gestión de infraestructuras Microsoft on-premise y cloud para clientes del sector servicios y telecomunicaciones.
-
-**Ecna Informática — Administrador de Sistemas**  
-Administración de entornos Windows y Office 365 en organizaciones de distinto tamaño y madurez tecnológica.
-
----
-
-## Cómo trabajo
-
-Me identifico con una forma de trabajar basada en:
-
-- **Rigor técnico**, evitando soluciones improvisadas o difíciles de mantener.
-- **Gobierno desde el diseño**, no como un parche posterior.
-- **Comunicación clara**, especialmente en entornos donde IT es transversal al negocio.
-- **Aprendizaje continuo**, en un sector en constante evolución.
-- **Respeto por los procedimientos**, aportando mejoras una vez entendidos y asumidos.
+* **Microsoft 365:** Gestión avanzada de identidades y acceso con Entra ID, Acceso Condicional, MFA, PIM y gobierno de seguridad.
+* **Azure y Cloud Híbrido:** Diseño de arquitecturas, gobierno de suscripciones, políticas (Azure Policy), etiquetado y optimización de costes.
+* **Gobierno y Seguridad:** Implementación de controles de seguridad equilibrados con la experiencia de usuario y alineados con buenas prácticas corporativas.
+* **Automatización y Eficiencia:** Automatización de procesos operativos para reducir errores, mejorar la trazabilidad y optimizar costes.
+* **Liderazgo Técnico:** Interlocución con proveedores, coordinación de equipos técnicos y trabajo cercano con perfiles de negocio.
 
 ---
 
-## Idiomas
+## Experiencia destacada 💼
 
-- Español: nativo  
-- Inglés: nivel alto / profesional, en contextos técnicos y proyectos internacionales
+**ADA Cloud — Socio fundador / Responsable técnico** Diseño, despliegue y operación de soluciones Microsoft 365 y Azure. Gobierno cloud, automatización y soporte avanzado en entornos críticos.
+
+**S&M Services — Administrador de Sistemas** Gestión de infraestructuras Microsoft on-premise y cloud para sector servicios y telecomunicaciones.
+
+**Ecna Informática — Administrador de Sistemas** Administración de entornos Windows y Office 365 en organizaciones de diversa madurez tecnológica.
+
+**Guardian Glass Industries — Administrador de Sistemas** Administración de sistemas para más de 300 puestos de trabajo y red de datos/voz a nivel nacional.
 
 ---
 
-Si quieres conocer más o hablar sobre proyectos, arquitectura o entornos IT complejos, estaré encantado de hacerlo.
+## Cómo trabajo 🧠
 
+Me identifico con una metodología basada en:
+- **Rigor técnico:** Evito soluciones improvisadas o difíciles de mantener.
+- **Gobierno desde el diseño:** La seguridad y el control no son parches posteriores.
+- **Comunicación clara:** Fundamental en entornos donde IT es transversal al negocio.
+- **Aprendizaje continuo:** Indispensable en un sector en evolución constante.
+
+---
+
+## Idiomas 🌐
+- **Español:** Nativo.
+- **Inglés:** Nivel alto / Profesional (contextos técnicos y proyectos internacionales).
+
+---
+
+Si quieres conocerme más o hablar sobre proyectos, arquitectura o entornos IT complejos, estaré encantado de hacerlo.
 
 * **LinkedIn:** [Jorge Díez Tubet](https://www.linkedin.com/in/jorge-d%C3%ADez-tubet-50371983/)
-* **GitHub:** [Mi Perfil de Código](https://github.com/tu-usuario)
+* **GitHub:** [Mi Perfil de Código](https://github.com/yortx85)
 
 > *"La mejor forma de aprender algo es intentar explicárselo a los demás."*
